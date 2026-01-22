@@ -27,7 +27,6 @@ export const CaseCard = ({ caseItem }: CaseCardProps) => {
       borderRadius={"md"}
       overflow={"hidden"}
       className="group"
-      boxShadow={"2xl"}
     >
       <Image
         position={"absolute"}
